@@ -14,3 +14,12 @@ Couldn't read a lot today because I had to study two lecture in electrical mater
 ## 25-10-2026
 At page 19 - 
 Stopped when they started talking into boolean algebra because right now my brain is fried, and need to recheck on how nand gates to made and work in real life to link computers and real life implementation together
+## 28-10-2026 
+At page 21 - Appendix 1 at 290
+### To be done
+1. Need to touch upon what is a boolean function and what is a boolean expression, hopefully after Appendix 1 I will understand better
+2. Memorize a little bit the boolean functions at Figure 1.2
+
+
+
+
