@@ -25,7 +25,7 @@ Stopped when they started talking into boolean algebra because right now my brai
 2. Memorize a little bit the boolean functions at Figure 1.2
 
 ## 12-11-2026
-### At page null
+### At page 21
 ### Appendix 1 Done to A1.2
 Been a cumbersome 2 weeks of midterms, but logical circuits design had sop and pos in it, so if fast forwarded appendix 1 part 2 without too much complication
 
