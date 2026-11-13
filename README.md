@@ -29,6 +29,10 @@ Stopped when they started talking into boolean algebra because right now my brai
 ### Appendix 1 Done to A1.2
 Been a cumbersome 2 weeks of midterms, but logical circuits design had sop and pos in it, so if fast forwarded appendix 1 part 2 without too much complication
 
+## 13-11-2026
+### At page 23
+### Appendix 1 Done to A1.2
+Wanted to implement Xor first to continue reading but on a trip, so I couldn't get on a computer 
 
 
 
