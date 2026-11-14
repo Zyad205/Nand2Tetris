@@ -1,4 +1,4 @@
-# This will be the a log of my reading of Nand2tetris book and projects made in Sebastian Lague Digital Logic sim
+# This will be the a log of my reading of Nand2tetris book and projects made in Sebastian Lague Digital Logic sim will be referenced as DLS
 
 ## 23-10-2026
 ### At page 10
@@ -33,6 +33,15 @@ Been a cumbersome 2 weeks of midterms, but logical circuits design had sop and p
 ### At page 23
 ### Appendix 1 Done to A1.2
 Wanted to implement Xor first to continue reading but on a trip, so I couldn't get on a computer 
+
+## 14-11-2026
+### At page 24
+### Appendix 1 Done to A1.2
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a511a66c-3e19-4024-85ab-273b4b4fb777" />
+Just played around with DLS and re implemented basic Logic gates NOT, AND, OR and XOR
+
+
+
 
 
 
