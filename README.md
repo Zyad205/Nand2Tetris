@@ -48,6 +48,13 @@ Just played around with DLS and re implemented basic Logic gates NOT, AND, OR an
 ![alt text](image-5.png)
 Understood Xor gate wrong last time, so I reimplemented it and tried writing .hdl, .tst and using first application of the software suite
 
+## 17-11-2026
+### At page 37
+### Appendix 1 Done to A1.2
+### To be done
+1. Most of project 1 in hdl and in DLS 
+
+
 
 
 
