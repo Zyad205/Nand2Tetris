@@ -40,6 +40,13 @@ Wanted to implement Xor first to continue reading but on a trip, so I couldn't g
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a511a66c-3e19-4024-85ab-273b4b4fb777" />
 Just played around with DLS and re implemented basic Logic gates NOT, AND, OR and XOR
 
+## 16-11-2026
+### At page 27
+### Appendix 1 Done to A1.2
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+Understood Xor gate wrong last time, so I reimplemented it and tried writing .hdl, .tst and using first application of the software suite
 
 
 
