@@ -73,4 +73,7 @@ Did some logic gate from project 1
 ![alt text](image-13.png)
 #### Mux16
 ![alt text](image-14.png)
+https://github.com/user-attachments/assets/f5baf467-17be-48c6-a8ed-ba4b32744c2b
+
+
 
