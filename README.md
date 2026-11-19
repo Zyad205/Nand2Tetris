@@ -54,8 +54,23 @@ Understood Xor gate wrong last time, so I reimplemented it and tried writing .hd
 ### To be done
 1. Most of project 1 in hdl and in DLS 
 
-
-
-
-
+## 19-11-2026
+### At page 37
+### Appendix 1 Done to A1.2
+Did some logic gate from project 1
+#### Mux
+![alt text](image-6.png)
+#### DMux
+![alt text](image-7.png)
+#### Not16
+![alt text](image-8.png)
+#### And8 and And16
+![alt text](image-9.png)
+![alt text](image-10.png)
+#### Or4, Or8 and Or16
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+#### Mux16
+![alt text](image-14.png)
 
