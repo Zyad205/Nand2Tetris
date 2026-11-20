@@ -75,5 +75,20 @@ Did some logic gate from project 1
 ![alt text](image-14.png)
 https://github.com/user-attachments/assets/f5baf467-17be-48c6-a8ed-ba4b32744c2b
 
-
+## 20-11-2026
+### At page 37
+### Appendix 1 Done to A1.2
+Went to DLS community edit so back ported all my older gates to use 16 Buses and implemented MUX4WAY16 and MUX8WAY16
+#### Not16
+![alt text](image-16.png)
+#### And16
+![alt text](image-15.png)
+#### Or16
+![alt text](image-17.png)
+#### Or8Way
+![alt text](image-18.png)
+#### Mux4Way16
+![alt text](image-19.png)
+#### Mux8Way16
+![alt text](image-20.png)
 
