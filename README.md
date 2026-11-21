@@ -107,3 +107,30 @@ Went to DLS community edit so back ported all my older gates to use 16 Buses and
 #### Mux8Way16
 ![alt text](image-20.png)
 
+## 21-11-2026
+- ### At page 37
+- ### Appendix 1 Done to A1.2
+- ### Appendix 2 Done to A2.2
+#### Chapter 1 ✅
+Finally finished Chapter 1 and Project 1 🥳
+
+#### DMux4Way
+![alt text](image-21.png)
+-
+#### DMux8Way
+![alt text](image-22.png)
+-
+And with this DLS for Chapter 1 is Done onto HDL
+### HDL
+Don't Should I add their implementation or not they are already stored in the repo in ./Project 1/HDL/*
+
+Something worth mentioning is Fanner8Bus and Fanner16Bus
+![![alt text](image-24.png)](image-23.png)
+To Add capability like this I made Fanners
+#### Fanner8Bus
+![alt text](image-25.png)
+-
+#### Fanner16Bus
+![alt text](image-26.png)
+-
+
