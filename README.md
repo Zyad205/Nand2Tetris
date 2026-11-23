@@ -134,3 +134,24 @@ To Add capability like this I made Fanners
 ![alt text](image-26.png)
 -
 
+## 23-11-2026
+## 21-11-2026
+- ### At page 46
+- ### Appendix 1 Done to A1.2
+- ### Appendix 2 Done to A2.2
+
+#### HalfAdder
+![alt text](image-27.png)
+-
+#### FullAdder
+![alt text](image-28.png)
+-
+#### Add4
+![alt text](image-29.png)
+-
+#### Add8
+![alt text](image-30.png)
+-
+#### Add16
+![alt text](image-31.png)
+-
